@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Project
+# Fitness Physical Data Analysis
 
 This repo contains the script necessary to run the Coursera Getting and Cleaning Data Project, and generate a tidy.txt as a result.
 
